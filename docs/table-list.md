@@ -1,3 +1,7 @@
+## Version
+
+- Dify: v0.7.2
+
 ## account_integrates
 
 ```
